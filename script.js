@@ -83,9 +83,9 @@ const teamImages = {
 };
 
 const teamExplanation = {
-  Reprezentare: "🔴Ajută la comunicarea cu șefii de an și șefii de subgrupă\n🔴Facilitează comunicarea dintre studenți și Conducerea Facultății\n🔴Centralizează problemele sesizate de studenți",
-  Consiliere: "🔵Monitorizează grupurile de an de WhatsApp\n🔵Răspunde la întrebările studenților venite pe pagina Ligii și pe grupurile de an\n🔵Identifică nevoile studenților și ia măsuri pentru a le îndeplini",
-  Informare: "🟣Se ocupă cu generarea de conținut edu pentru articole / emailuri de pe Campus Virtual / postări ale Ligii\n🟣Ajută studenții să descopere oportunități educaționale\n🟣Realizează sesiuni de informare(întâlniri) cu studenții",
+  Reprezentare: "🔴 Ajută la comunicarea cu șefii de an și șefii de subgrupă\n🔴 Facilitează comunicarea dintre studenți și Conducerea Facultății\n🔴 Centralizează problemele sesizate de studenți",
+  Consiliere: "🔵 Monitorizează grupurile de an de WhatsApp\n🔵 Răspunde la întrebările studenților venite pe pagina Ligii și pe grupurile de an\n🔵 Identifică nevoile studenților și ia măsuri pentru a le îndeplini",
+  Informare: "🟣 Se ocupă cu generarea de conținut edu pentru articole / emailuri de pe Campus Virtual / postări ale Ligii\n🟣 Ajută studenții să descopere oportunități educaționale\n🟣 Realizează sesiuni de informare(întâlniri) cu studenții",
 };
 
 function fadeOut(element, callback) {
